@@ -1,0 +1,99 @@
+replacements:
+    "questionnaire": "online evaluation"
+    "quiz": "online evaluation"
+    "get my treatment": "find my treatment"
+    "got my treatment": "found my treatment"
+    "customized treatment recommendation": "get your personalized treatment options"
+    "customized": "personalized"
+    "our providers": "providers"
+    "our pool of vetted licensed providers": "vetted licensed providers"
+    "psychiatry provider": "licensed provider"
+    "mental health provider": "licensed healthcare provider"
+    "easy": "convenient"
+    "easily": "conveniently"
+    "easier": "more convenient"
+    "easiest": "most convenient"
+    "easiness": "convenience"
+    "ease": "convenience"
+    "free messaging": "unlimited messaging"
+    "free medication adjustments": "unlimited medication adjustments"
+    "certified": "licensed"
+    "doctor recommendations": "doctor-trusted treatments"
+    "submit your visit": "complete a visit"
+    "telemedicine service provider": "telehealth platform"
+    "conquer": "treat"
+    "conquered": "treated"
+    "conquering": "treating"
+    "beat": "treat"
+    "overcome": "treat"
+    "overcame": "treated"
+    "overcoming": "treating"
+    "resolve": "treat"
+    "resolved": "treated"
+    "resolving": "treating"
+    "cure": "treat"
+    "cured": "treated"
+    "curing": "treating"
+    "offer medical": "offer access to medical"
+    "offers medical": "offers access to medical"
+    "offer therapy": "offer access to therapy"
+    "offers therapy": "offers access to therapy"
+    "offer prescriptions": "offer access to prescriptions"
+    "offers prescriptions": "offers access to prescriptions"
+    "offer prescription": "offer access to prescription"
+    "offers prescription": "offers access to prescription"
+    "submit a visit": "complete a visit"
+    "submit your visit": "complete a visit"
+    "quick medical consultation": "streamlined medical consultation"
+    "fast medical consultation": "streamlined medical consultation"
+    "quick consultation": "streamlined consultation"
+    "fast consultation": "streamlined consultation"
+    "quick medical consultations": "streamlined medical consultations"
+    "fast medical consultations": "streamlined medical consultations"
+    "quick consultations": "streamlined consultations"
+    "fast consultations": "streamlined consultations"
+    "doctor": "healthcare provider"
+    "physician": "healthcare provider"
+    "board-certified": "board-licensed"
+    "telemedicine": "telehealth"
+    "health care" : "healthcare"
+    "depression and anxiety" : "anxiety and depression"
+    "depression & anxiety" : "anxiety & depression"
+    "with hims" : "through hims"
+    
+exclusions:
+    - in days
+    - conquer
+    - defeat
+    - compliance guidelines
+    - compliance guideline
+
+bu_addition:
+    " They connect customers with healthcare providers who can treat certain conditions via telehealth. Hims & Hers cannot itself provide or sell clinical services. The provider will evaluate the customer and determine if a prescription is right for them."
+
+additional_instructions : "\n- Avoid language that makes it seem like customers are guaranteed to get a prescription very fast.\n
+- Do not imply that Hims offers or provides healthcare services, instead say that they offer access to consultations with healthcare providers, medical services, therapy services or prescriptions.\n
+- Avoid making it seem like getting care through the platform is 'easy'. It can be 'simple' or 'convenient' or 'accessible' or 'affordable'\n
+- Never guarantee a prescription would be given. Always say 'if prescribed' or ' connect with a provider through Hims platform to see if a prescription is right for you' \n
+- Use words like 'treat', 'feel better', 'improve', 'reduce', 'help' instead of words like 'conquer', 'defeat', 'beat', 'overcome', 'resolve', 'cure', 'heal', 'leave behind'.\n
+- Avoid saying medication cures all symptoms of anxiety or depression. Instead, say medication can 'treat' and 'reduce' symptoms.\n
+- Avoid using 'will' and make no guarantees that everyone can get a treatment plan. Instead, acknowledge that 'a licensed provider can determine the best approach"
+
+replacement_instructions : "
+\n- Cannot use 'questionnaire' or 'quiz' when referring to our consultation form. Say 'intake form' or 'online consultation' or 'online evaluation' .
+\n- Can't say 'get my treatment' . Say 'find my treatment' or 'start a consultation'
+\n- Can't say 'customized treatment recommendation' . Say 'get your personalized treatment options'
+\n- Can't say 'our pool of vetted licensed providers' or 'our providers'. Say 'connect with vetted licensed providers' or 'providers on our platform' or 'providers'
+\n- Can't say 'psychiatry provider' or 'mental health provider'. Say 'licensed provider' or 'licensed healthcare provider'
+\n- Cannot say 'free medication adjustments' or 'free messaging with provider'. Say 'unlimited messaging and medication adjustments'
+\n- Cannot say 'certified pharmacy' . Say 'licensed pharmacies' 
+\n- Cannot say 'doctor recommendations' . Say 'doctor-trusted treatments'
+\n- Cannot say 'submit your visit' . Say 'complete a visit' or 'submit an intake form'
+\n- Cannot call ourselves a 'telemedicine service provider'. Say 'telehealth platform' 
+\n- Cannot say 'Our providers' . Say The providers or just providers
+\n- Cannot not say We offer medical services, therapy services or prescriptions. Say we offer access to medical services, therapy services or prescriptions.
+\n- Cannot say 'Quick' or 'fast' medical consultation or consultation process . Say streamlined, simple, efficient, patient-friendly
+\n- Cannot say Doctor or physician. Say Healthcare provider or provider
+\n- Cannot say Board-certified. Say Board-licensed
+\n- Cannot say HIPAA-compliant. Say We offer private and secure consultations, our platform's privacy and security is consistent with HIPAA standards.
+"

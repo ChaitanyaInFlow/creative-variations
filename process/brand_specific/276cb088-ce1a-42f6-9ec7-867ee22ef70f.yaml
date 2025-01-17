@@ -1,0 +1,31 @@
+replacements:
+    "candy switcher ": "switcher game"
+    "candy game": "match-3 game"
+    "candy themed game": "match-3 game"
+    
+exclusions:
+    - addictive
+    - no charge
+    - totally free
+    - high score
+    - compliance guideline
+    - candy crusher
+    - candy crushers
+    - crushing candies
+    - get crushing
+    - crushing
+
+
+additional_instructions : "\n - Using 'Crush' as a verb is not allowed.\n
+- Do not use the word 'addictive' or imply any connection to the game being addictive. \n
+- Do not use phrases like 'no charge' or 'totally free. Do not suggest that the user won't need to spend any money.\n
+- Avoid using the word 'Win' and refrain from suggesting any prizes or rewards for winning.\n
+- Avoid using 'high score' whenever possible.\n
+- Do not target individuals under the age of 18.\n
+- Do not associate or promote alongside gambling or betting organizations.\n
+"
+
+replacement_instructions : "
+\n- Can't say 'candy switcher' or 'candy game' or 'candy themed game' . Say 'switcher game' or 'match-3 game'
+\n - Can't say phrases like 'let's get crushing' or 'become a candy crusher'
+"

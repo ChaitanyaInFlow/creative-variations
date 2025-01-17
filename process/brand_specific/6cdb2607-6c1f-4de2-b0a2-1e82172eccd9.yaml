@@ -1,0 +1,137 @@
+
+exclusions:
+    - might
+    - could
+    - maybe
+    - wtf
+    - wth
+    - kys
+    - iykyk
+    - stfu
+    - kma
+    - fu
+    - ffs
+    - interwebs
+    - completely
+    - totally
+    - literally
+    - seo ninja
+    - evangelist
+    - wizard
+    - rock star
+    - bomb
+    - knife
+    - gun
+    - sex
+    - blind
+    - crazy
+    - cripple 
+    - crippling hysterical
+    - lame
+    - mental
+    - nutty
+    - psycho
+    - psychotic
+    - schizo
+    - schizophrenic
+    - off the reservation
+    - boomer
+    - aging
+    - kid
+    - old
+    - youngster
+    - hipster
+    - bandwidth
+    - bang for your buck
+    - best-in-class
+    - big data
+    - bring to the table
+    - buyer journey
+    - circle back
+    - crushing it
+    - deep dive
+    - disrupt
+    - game changer
+    - groundbreaking
+    - growth hacking
+    - innovative
+    - move the needle
+    - pain point
+    - pivot
+    - revolutionary
+    - synergy
+    - think outside the box
+
+
+replacements:
+    "pretty" : "stunning"
+    "a sufficient amount of" : "Enough"
+    "due to the fact that" : "Because"
+    "serves the function of" : "Is"
+    "hold a discussion" : "Discuss"
+    "make a decision" : "Decide"
+    "give an explanation" : "Explain"
+    "blacklist" : "blocklist"
+    "whitelist" : "allow"
+    "cakewalk" : "easy"
+    "grandfathered in" : "excused"
+    "gyp" : "swindle"
+    "jip" : "cheat"
+    "master" : "primary"
+    "mumbo jumbo" : "difficult to understand"
+    "nitty gritty" : "essentials"
+    "no can do" : "it's not possible"
+    "peanut gallery" : "audience"
+    "powwow" : "gathering"
+    "sherpa" : "guide"
+    "slave" : "follower"
+    "spirit animal" : "kindred spirit"
+    "tipping point" : "critical point"
+    "analyse" : "analyze"
+    "backwards" : "backward"
+    "behaviour" : "behavior"
+    "cancelled" : "canceled"
+    "catalogue" : "catalog"
+    "centre" : "center"
+    "colour" : "color"
+    "defence" : "defense"
+    "dialog" : "dialogue"
+    "enrolment" : "enrollment"
+    "favourite" : "favorite"
+    "forwards" : "forward"
+    "fulfil" : "fulfill"
+    "towards" : "toward"
+    "by in large" : "by and large"
+    "case and point" : "case in point"
+    "could of" : "could have"
+    "should of" : "should have"
+    "deep-seeded" : "deep-seated"
+    "first serve" : "first-served"
+    "for all intensive purposes" : "for all intents and purposes"
+    "free reign" : "free rein"
+    "one in the same" : "one and the same"
+    "peak your interest" : "pique your interest"
+
+
+
+replacement_instructions : "
+\n - Use the words 'easy' or 'a breeze' instead of 'cakewalk'
+\n - Use the words 'excused' or 'given immunity' instead of 'grandfathered in'
+\n - Use the words 'swindle' or 'cheat' instead of 'gyp, jip'
+\n - Use the words 'primary' or 'superior' instead of 'master'
+\n - Use the words 'difficult to understand' or 'confusing' instead of 'mumbo jumbo'
+\n - Use the words 'essentials' or 'fundamentals' instead of 'nitty gritty'
+\n - Use the words 'audience' or 'hecklers' instead of 'peanut gallery'
+\n - Use the words 'gathering,' 'meeting,' or 'conference' instead of 'powwow'
+\n - Use the words 'secondary' or 'follower' instead of 'slave'
+\n - Use the words 'critical point' or 'crisis' instead of 'tipping point' "
+
+additional_instructions : "\n - Create vibrant, energetic, and dynamic generations."
+
+
+
+
+
+
+
+
